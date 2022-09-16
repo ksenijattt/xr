@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Interaction Eye Probe 1.0/Interaction Eye Probe 1.0.unity
-    guid: b273c327d2be93242b3f52545134fb7c
+    path: Assets/Scenes/360 video 3.0/360 video 3.0.unity
+    guid: 170573e6cdda7bf4880b24b3e1b27f14
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 100a560ed807b39458c5867b958bcf8a, type: 2}
     Unity.XR.PXR.Settings: {fileID: 11400000, guid: 3f7aaf2389995454688e798310db1495, type: 2}
